@@ -8,3 +8,4 @@ mvn archetype:generate -DgroupId=com.company -DartifactId=empl-srv-model -Darche
 
 
 Test local pull
+Test local push
